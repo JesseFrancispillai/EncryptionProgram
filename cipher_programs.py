@@ -4,11 +4,6 @@ Encrypt or decrypt the contents of a message file using a deck of cards.
 
 import cipher_functions
 
-DECK_FILENAME = 'deck1.txt'
-MSG_FILENAME = 'secret4.txt'
-MODE = 'e'  # 'e' for encryption, 'd' for decryption.
-
-
 def main():
     """ () -> NoneType
 
